@@ -16,7 +16,7 @@ def main():
 
     value_to_take_coords = [150, 300, 1000]
 
-    for file in ["vc_800_10000.txt"]:  # sorted(os.listdir("input")):
+    for file in sorted(os.listdir("input")):
         max_eval = int(max_eval_list[index_max])
         iter_without_improvements = 0
         num_obj_func = 0
