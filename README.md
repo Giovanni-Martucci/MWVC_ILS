@@ -1,7 +1,7 @@
 # MWVC_ILS
 
-#Packages required
+# Packages required
 pip install -r requiriments.txt
 
-#Usage
+# Usage
 python main.py
